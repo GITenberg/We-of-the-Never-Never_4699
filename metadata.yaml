@@ -1,0 +1,40 @@
+_repo: We-of-the-Never-Never_4699
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gunn, Jeannie
+    aliases:
+    - Gunn, Mrs. Aeneas
+    - Gunn, Jeannie Taylor
+    birthdate: 1870
+    deathdate: 1961
+    gutenberg_agent_id: '1550'
+    url: http://www.gutenberg.org/2009/agents/1550
+description: "We of the Never Never is an autobiographical novel by Jeannie Gunn.\
+  \ Although published as a novel, it is an account of the author's experiences in\
+  \ 1902 at Elsey Station near Mataranka, Northern Territory in which she changed\
+  \ the names of people to obscure their identities. She published this book under\
+  \ the name Mrs Aeneas Gunn, using her husband's first and last name. Over the years\
+  \ newspapers and magazine articles chronicled the fortunes of the Elsey characters:\
+  \ Jeannie outlived all but Bett-Bett.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4699'
+  wikidata: Q5116170
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Australia -- Northern Territory'
+- !lcc 'DU'
+- !lcsh 'Northern Territory -- Description and travel'
+- GITenberg
+title: We of the Never-Never
+url: http://www.gutenberg.org/ebooks/4699
+wikipedia:
+- https://de.wikipedia.org/wiki/We_of_the_Never-Never
+- https://nl.wikipedia.org/wiki/We_of_the_Never_Never
+- https://en.wikipedia.org/wiki/We_of_the_Never_Never
