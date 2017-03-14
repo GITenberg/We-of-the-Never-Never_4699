@@ -1,5 +1,8 @@
 _repo: We-of-the-Never-Never_4699
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gunn, Jeannie
@@ -17,6 +20,8 @@ description: "We of the Never Never is an autobiographical novel by Jeannie Gunn
   \ the name Mrs Aeneas Gunn, using her husband's first and last name. Over the years\
   \ newspapers and magazine articles chronicled the fortunes of the Elsey characters:\
   \ Jeannie outlived all but Bett-Bett.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4699#We-of-the-Never-Never
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
